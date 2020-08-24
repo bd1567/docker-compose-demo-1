@@ -1,4 +1,4 @@
-version: "6"
+version: "16"
 services:
   nginx:
     image: nginx:alpine
